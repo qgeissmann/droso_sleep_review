@@ -1,0 +1,7 @@
+"tag","description","sex","status"
+"MU","Male, unspecified mating state","M","unknown"
+"MV","Male virgin","M","virgin"
+"MM","Male mated","M","mated"
+"FU","Female, unspecified mating state","F","unknown"
+"FV","Female virgin","F","virgin"
+"FM","Female mated","F","mated"
