@@ -1,2 +1,2 @@
-"Title","DOI","strain","sex","age","method","sleep.dep","body.region","brain.region","gene.expression","gene.behaviour","notes"
-"Correlates of Sleep and Waking","10.1126/science.287.5459.1834","Cs","MU,VF",5,"dam,ultrasound",,"NA","NA","Fas, CG2060, CG4147","CG8380","Some short note goes here"
+Title,DOI,strain,sex,age,method,sleep.dep,body.region,brain.region,gene.expression,gene.behaviour,notes
+Correlates of Sleep and Waking,10.1126/science.287.5459.1834,Cs,"MU,VF",5,"dam,ultrasound",,NA,NA,"Fas, CG2060, CG4147",CG8380,Some short note goes here
